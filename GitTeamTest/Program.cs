@@ -13,6 +13,8 @@ namespace GitTeamTest
             Console.WriteLine("Ahoj codebrew");
             Dusi.VypisDusu();
             TomikFunction();
+            Rybicka ryba = new Rybicka();
+            ryba.Greeter();
         }
     }
 }
