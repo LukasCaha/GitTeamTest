@@ -15,6 +15,7 @@ namespace GitTeamTest
             TomikFunction();
             Rybicka ryba = new Rybicka();
             ryba.Greeter();
+            DenisClass.DenisMethod();
         }
     }
 }
