@@ -11,6 +11,7 @@ namespace GitTeamTest
         static void Main(string[] args)
         {
             Console.WriteLine("Ahoj codebrew");
+            Dusi.VypisDusu();
         }
     }
 }
